@@ -10,8 +10,8 @@ function App() {
           Želite li napokon kupiti svoju kuću iz snova?{" "}
         </p>
         <p>
-          Na pravom ste mjestu!
-          <n>Za više informacija obratite nam se s povjerenjem!</n>
+          Na pravom ste mjestu! Za više informacija obratite nam se s
+          povjerenjem!
         </p>
       </header>
     </div>
